@@ -1,13 +1,16 @@
 {
   "name": "vue-i18n",
   "description": "Internationalization plugin for Vue.js",
-  "version": "8.9.0",
+  "version": "8.10.0",
   "author": {
     "name": "kazuya kawaguchi",
     "email": "kawakazu80@gmail.com"
   },
   "bugs": {
     "url": "https://github.com/kazupon/vue-i18n/issues"
+  },
+  "resolutions": {
+    "webpack-dev-middleware": "3.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.0",
